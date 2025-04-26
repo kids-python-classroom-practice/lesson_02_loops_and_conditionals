@@ -2,7 +2,7 @@
 
 ## Getting Started
 
-Follow the steps below to download the code and run the `main_lesson.py` file.
+Follow the steps below to download the code and run the `lesson_02.py` file.
 
 ---
 
