@@ -23,7 +23,7 @@ Follow the steps below to download the code and run the `lesson_02.py` file.
 
 2. **Navigate to the Project Folder**:
     - Open the folder where the repository was cloned.
-    - Locate the file `main_lesson.py` inside the `lesson_02_iterables_loops_conditionals` directory.
+    - Locate the file `lesson_02.py` inside the `lesson_02_iterables_loops_conditionals` directory.
 
 ---
 
@@ -36,12 +36,12 @@ Follow the steps below to download the code and run the `lesson_02.py` file.
 
     Execute the following command:
     ```
-    python main_lesson.py
+    python lesson_02.py
     ```
 
     If you have multiple Python versions installed, you may need to use:
     ```
-    python3 main_lesson.py
+    python3 lesson_02.py
     ```
 
 3. **Follow the On-Screen Instructions**:
@@ -55,7 +55,7 @@ Follow the steps below to download the code and run the `lesson_02.py` file.
 ## Troubleshooting
 
 - If you encounter issues running the file, ensure Python is correctly installed and added to your system's PATH.
-- Verify that you are in the correct directory where `main_lesson.py` is located.
+- Verify that you are in the correct directory where `lesson_02.py` is located.
 - Ensure that `student_code.py` is present in the same folder.
 
 ---
